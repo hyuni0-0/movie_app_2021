@@ -2,7 +2,7 @@
 React JS Fundamentals Course 2021
 
 ### Complete Project
-https://hyuni0-0.github.io/movie_app_2021
+https://ky0ng.github.io/movie_app_2021
 
 
 ##### `made by hyun`
